@@ -8,4 +8,6 @@ Scripts accompanying analysis of Marquis et al. 2024
 
 3) [environments] python code to read in MP object tracks and ERA5 3d T,RH,U,V,P,Z and return convective environmental metrics within each MP object (.e.g, CAPE, CIN, shear, moisture, etc.). 
 
-4) [postprocess]  matlab codes which reads in, collates, and analyzes into plots LS, MP, and MCS objects, MP environemnts. 
+4) [postprocess]  matlab codes which reads in, collates, and analyzes into plots LS, MP, and MCS objects, MP environemnts. Used for original manuscript submission.
+
+5) [postprocess_updated4revision1]  matlab codes which reads in, collates, and analyzes into plots LS, MP, and MCS objects, MP environements. Updated to respond to first round of reviewer comments.
